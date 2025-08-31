@@ -31,8 +31,20 @@ The author is **not responsible for misuse or illegal activity**.
 
 ---
 
-## 🛠️ Installation & Usage
+##  Installation & Usage
 Clone the repository:
-```bash
-git clone https://github.com/TayyabAkhtar786/Command-Injection-Payloads
+bash
+git clone https://github.com/TayyabAkhtar786/Command-Injection-Payloads.git
+##  Example
+Command Injection Payload Reference (Educational Only)
+
+Choose OS type (linux/windows): linux
+
+Linux Payloads:
+
+  ; id
+  | id
+  && id
+  ...
+
 
